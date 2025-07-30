@@ -10,3 +10,15 @@ Além disso, vamos trabalhar com Gitflow ao final do curso e VS Code.
 
 Confira tudo o que temos no nosso YouTube. É grátis!
 
+
+
+----
+
+
+
+Pessoas participantes:
+
+
+
+-Gui
+
